@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Controls from "./components/Controls";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
-
+import iPhone from "./components/iPhone.jsx";
 const App = () => {
   const [frameZoom, setFrameZoom] = useState(false);
   const [activePage, setActivePage] = useState(0);
@@ -25,7 +25,8 @@ const App = () => {
           <Navbar activePage={activePage} handleNavClick={handleNavClick} />
           <Controls handleZoom={handleZoom} frameZoom={frameZoom} />
           <div className="flex-grow">
-            <Home />
+            {/* <Home /> */}
+            <iPhone />
           </div>
         </div>
       </div>

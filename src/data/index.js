@@ -34,7 +34,7 @@ export const navItems = [
 export const items = [
   { label: "iPhone", img: "images/iphone.jpg", pageIndex: 1 },
   { label: "MacBook", img: "images/macbook.jpg", pageIndex: 2 },
-  { label: "Smart Watch", img: "images/watch.jpg", pageIndex: 3 },
+  { label: "Apple Watch", img: "images/watch.jpg", pageIndex: 3 },
   { label: "iMac", img: "images/imac.png", pageIndex: 4 },
 ];
 

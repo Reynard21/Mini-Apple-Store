@@ -9,7 +9,10 @@ const Navbar = ({ activePage, handleNavClick }) => {
           href="#"
           className="2xl:text-2xl xl:text-xl font-light  text-shadow-black mb-14 tracking-wider"
         >
-          <i className="bx bxl-apple text-2xl"></i>
+          <button
+            className="bx bxl-apple text-2xl"
+            href="https://www.apple.com/"
+          ></button>
         </a>
         <div className="flex flex-col flex-grow ">
           {navItems.map((item, index) => (

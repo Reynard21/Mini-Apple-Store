@@ -42,19 +42,19 @@ export const iphoneModels = [
   {
     name: "iPhone 16 Pro Max",
     description: "The ultimate iPhone.",
-    price: "From $1,099",
+    price: " $1,099",
     img: "images/iphone16-pro-max.png",
   },
   {
     name: "iPhone 16 Plus",
     description: "A total powerhouse.",
-    price: "From $799",
+    price: " $799",
     img: "images/iphone16-plus.png",
   },
   {
     name: "iPhone 16",
     description: "As amazing as ever.",
-    price: "From $799",
+    price: " $799",
     img: "images/iphone16.png",
   },
 ];
@@ -62,7 +62,7 @@ export const iphoneModels = [
 export const macbookModels = [
   {
     chip: "M2",
-    price: "From $999",
+    price: " $999",
     img: "images/macbook-air-midnight-m2.jpg",
     colors: [
       {
@@ -87,7 +87,7 @@ export const macbookModels = [
   },
   {
     chip: "M3",
-    price: "From $1,299",
+    price: " $1,299",
     img: "images/macbook-air-space-gray-m3.jpg",
     colors: [
       {
@@ -125,19 +125,19 @@ export const watchModels = [
   {
     imgs: ["images/watch10-side.png", "images/watch10.png"],
     name: "Apple Watch Series 10",
-    price: "From $399",
+    price: " $399",
     desc: ["45mm or 41mm case size", "50m water resistant", "Swimproof"],
   },
   {
     imgs: ["images/watch-hermes-side.png", "images/watch-hermes.png"],
     name: "Apple Watch Hermes",
-    price: "From $1,149",
+    price: " $1,149",
     desc: ["44mm or 40mm case size", "50m water resistant", "Swimproof"],
   },
   {
     imgs: ["images/watch-se-side.png", "images/watche-se.png"],
     name: "Apple Watch Se",
-    price: "From $249",
+    price: " $249",
     desc: ["44mm case size", "10m water resistant", "Swimproof"],
   },
 ];

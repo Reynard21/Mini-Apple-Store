@@ -45,7 +45,7 @@ This project mimics the feel of an Apple Store in a simplified way — combining
 
 ```bash
 # Clone the repository
-git clone https://github.com/Reynard21/apple-mini-store.git
+git clone https://github.com/Reynard21/Mini-Apple-Store.git
 cd apple-mini-store
 
 # Install dependencies
